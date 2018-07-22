@@ -1,26 +1,24 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
+name: Pronoy Chaudhuri
+title: Pronoy Chaudhuri
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://brittanychiang.com/
+url: https://www.pronoy.me/
 baseurl: ""
-email: brittany.chiang@gmail.com
-cover: https://brittanychiang.com/img/og.png
-logo: https://brittanychiang.com/img/emojis/technologist.png
-resume: https://brittanychiang.com/resume.pdf
+email: pronoy.chaudhuri@uwaterloo.ca
+cover: https://www.pronoy.me/img/og.png
+logo: https://www.pronoy.me/img/emojis/technologist.png
+resume: https://www.pronoy.me/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:pronoy.chaudhuri@uwaterloo.ca
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/Pronoy_C
   - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://www.instagram.com/pronoy_c/
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/PronoyC
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/pronoyc/
 
 # Build settings
 markdown: kramdown

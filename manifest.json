@@ -13,5 +13,10 @@
       "sizes": "160x160",
       "type": "image/png"
     }
+    {
+      "src": "img/headshot.jpg",
+      "sizes": "1876x1877",
+      "type": "image/jpg"
+    }
   ]
 }

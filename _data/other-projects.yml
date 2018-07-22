@@ -46,7 +46,7 @@
 - name: Carus
   url: https://github.com/PronoyC/Carus
   code: https://github.com/PronoyC/Carus
-  description: A React browser that allows users to examine smart investing options based on their search history.
+  description: React browser that allows users to examine smart investing options based on their search history.
   used:
     - thing: Watson
     - thing: React
@@ -57,7 +57,7 @@
 - name: Personal Website
   url: https://www.pronoy.me/
   code: https://www.pronoy.me/
-  description: Personal Website to showcase programming talent.
+  description: Personal website to showcase programming talent.
   used:
   - thing: Jekyll
   - thing: JavaScript

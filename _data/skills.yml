@@ -1,7 +1,8 @@
 languages:
   - item: C/C++
   - item: Java/Kotlin
-  - item: HTML/CSS/JavaScript
+  - item: HTML/CSS
+  - item: JavaScript
   - item: Python
   - item: Swift
   - item: SQL

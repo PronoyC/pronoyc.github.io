@@ -75,3 +75,13 @@ $(function() {
   sr.reveal('.featured-projects', { viewFactor: 0.1 });
   sr.reveal('.other-projects', { viewFactor: 0.05 });
 });
+
+if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/sw.js')
+      .then((registration) => {
+        console.log('SW registered');
+      })
+      .catch((err) => {
+        console.log('SW error', err);
+      });
+    }

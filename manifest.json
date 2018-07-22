@@ -1,4 +1,4 @@
-{
+"manifest": {
     "short_name": "PC",
     "name": "Pronoy Chaudhuri",
     "start_url": "/",
@@ -45,5 +45,5 @@
         "sizes": "1876x1877",
         "type": "image/jpg"
       }
-}
+]
 }

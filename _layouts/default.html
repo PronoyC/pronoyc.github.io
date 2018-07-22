@@ -7,17 +7,6 @@ layout: compress
   {% include head.html %}
 </head>
 <body>
-  <script>
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/sw.js')
-      .then((registration) => {
-        console.log('SW registered');
-      })
-      .catch((err) => {
-        console.log('SW error', err);
-      });
-    }
-  </script>
   {{ content }}
   {% include scripts.html %}
 </body>

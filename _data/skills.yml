@@ -6,9 +6,13 @@ languages:
   - item: Swift
   - item: SQL
   - item: Racket
+ 
+frameworks:
+  - item: Corda
+  - item: Fabric
+  - item: Ethereum
 
 tools:
-  - item: Corda/Fabric/Ethereum
   - item: Bash
   - item: Git/GitHub
   - item: Node
@@ -17,6 +21,6 @@ tools:
   - item: AWS
   - item: VSCode
 
-Other:
+design:
   - item: Manual Testing
   - item: Debugging Code

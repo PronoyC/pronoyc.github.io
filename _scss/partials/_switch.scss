@@ -29,7 +29,7 @@
       visibility: hidden;
       position: absolute;
       &:checked + label {
-        background: $green;
+        background: $patina;
       }
       &:checked + label:after {
         left: calc(100% - 3px);

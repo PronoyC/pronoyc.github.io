@@ -9,6 +9,9 @@ self.addEventListener('install', function (event) {
         cache.addAll([
           '/',
           '/index.html',
+          '/_includes/switch.html',
+          '/_scss/switch.scss',
+          '/img/*',
           '/_scripts/main.js',
           '/_css/main.css',
           '/_scss/main.scss',

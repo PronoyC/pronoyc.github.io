@@ -5,6 +5,8 @@
   "lang": "en-US",
   "display": "standalone",
   "theme_color": "#0275d8",
+  "background_color": "#0275d8",
+  
   "icons": [
     {
       "src": "img/emojis/technologist.png",

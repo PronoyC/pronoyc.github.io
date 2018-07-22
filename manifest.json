@@ -1,0 +1,15 @@
+{
+  "name": "Pronoy Chaudhuri",
+  "short_name": "Pronoy Chaudhuri",
+  "description": "Blockchain-focused full-stack developer adamant on creating meaningful code",
+  "lang": "en-US",
+  "display": "standalone",
+  "theme_color": "#0275d8",
+  "icons": [
+    {
+      "src": "img/emojis/technologist.png",
+      "sizes": "160x160",
+      "type": "image/png"
+    }
+  ]
+}

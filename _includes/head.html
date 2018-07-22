@@ -38,3 +38,17 @@
 <meta name="twitter:image:src" content="{{site.cover}}">
 <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
 <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" hreflang="en-us">
+<script>
+if (‘serviceWorker’ in navigator) { 
+  window.addEventListener(‘load’, function() {   
+    navigator.serviceWorker.register(‘/sw.js’).then(
+      function(registration) { 
+        // Registration was successful
+        console.log(‘ServiceWorker registration successful with scope: ‘, registration.scope); }, 
+      function(err) { 
+        // registration failed :( 
+        console.log(‘ServiceWorker registration failed: ‘, err); 
+      }); 
+  });
+}
+</script>

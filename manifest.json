@@ -4,7 +4,7 @@
     "start_url": "/",
 
     "theme_color": "#007bff",
-    "background_color": "#007bff,
+    "background_color": "#007bff",
 
     "display": "standalone",
     "orientation": "portrait",
@@ -36,8 +36,8 @@
         "type": "image/png"
       },
       {
-        "src": "/mstile-150x150.png",
-        "sizes": "270x270",
+        "src": "/img/emojis/technologist.png",
+        "sizes": "160x160",
         "type": "image/png"
       },
       {

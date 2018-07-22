@@ -12,6 +12,7 @@ self.addEventListener('install', function (event) {
           '/_scripts/main.js',
           '/_css/main.css',
           '/_scss/main.scss',
+          '/resume.pdf',
           '/_layouts/default.html'
         ]);
       })

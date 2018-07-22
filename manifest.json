@@ -1,0 +1,13 @@
+{
+    "short_name": "PC",
+    "name": "Pronoy Chaudhuri",
+    "start_url": "/",
+
+    "theme_color": "#54aee8",
+    "background_color": "#ffffff",
+
+    "display": "standalone",
+    "orientation": "portrait"
+
+    /// Add icons in next section
+}

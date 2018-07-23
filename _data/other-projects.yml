@@ -54,10 +54,10 @@
     - thing: Bash
     - thing: MetaMask
 
-- name: Personal Website
+- name: Personal Portfolio
   url: https://www.pronoy.me/
   code: https://www.pronoy.me/
-  description: Personal website to showcase programming talent.
+  description: Portfolio to showcase CS achievements with PWA integration.
   used:
   - thing: Jekyll
   - thing: JavaScript

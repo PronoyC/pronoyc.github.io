@@ -1,6 +1,4 @@
 - name: InsureFlight API
-  url: https://github.com/PronoyC/InsureFlight
-  code: https://github.com/PronoyC/InsureFlight
   description: Flight delay insurance management powered by a CorDapp API.
   used:
     - thing: Kotlin
@@ -10,8 +8,6 @@
     - thing: Bash
 
 - name: POI Network
-  url: https://github.com/PronoyC/POI-Network
-  code: https://github.com/PronoyC/POI-Network
   description: Proof of insurance coverage network powered by a Fabric API with a material-design inspired front-end.
   used:
     - thing: JavaScript (Node)

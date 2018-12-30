@@ -2,12 +2,12 @@
 name: Pronoy Chaudhuri
 title: Pronoy Chaudhuri | Full-Stack Developer
 description: Blockchain-focused full-stack developer adamant on creating meaningful code
-url: https://www.pronoy.me/
+url: https://www.pronoy.ca/
 baseurl: ""
 email: pronoy.chaudhuri@uwaterloo.ca
-cover: https://www.pronoy.me/img/og.png
-logo: https://www.pronoy.me/img/emojis/technologist.png
-resume: https://www.pronoy.me/resume.pdf
+cover: https://www.pronoy.ca/img/og.png
+logo: https://www.pronoy.ca/img/emojis/technologist.png
+resume: https://www.pronoy.ca/resume.pdf
 social:
   - title: email
     url: mailto:pronoy.chaudhuri@uwaterloo.ca

@@ -1,26 +1,29 @@
-- name: InsureFlight API
-  description: Flight delay insurance management powered by a CorDapp API.
+- name: Galen
+  url: https://ruhacks2019.hackerearth.com/challenges/hackathon/ru-hacks-2019/dashboard/b2735df/submission/
+  description: An award-winning application that tackles the growing opioid crisis in North America.
   used:
-    - thing: Kotlin
-    - thing: Corda
-    - thing: Gradle
-    - thing: AJAX
-    - thing: Bash
-
-- name: POI Network
-  description: Proof of insurance coverage network powered by a Fabric API with a material-design inspired front-end.
+    - thing: Angular
+    - thing: Bootstrap
+    - thing: Figma
+    - thing: Google Maps API
+    - thing: GCP
+    - thing: Node
+    - thing: Hyperledger Fabric
+    
+- name: endgameJS
+  url: https://github.com/a5chanda/endgameJS
+  code: https://github.com/a5chanda/endgameJS
+  description: A perfectly balanced texting service that immediately alerted subscribers when Avengers: Endgame tickets would release.
   used:
-    - thing: JavaScript (Node)
-    - thing: Fabric
-    - thing: Bash
-    - thing: Composer
-    - thing: AWS
-    - thing: Docker
+    - thing: Node
+    - thing: Twilio
+    - thing: Heroku
+    - thing: Cineplex API
 
 - name: Kaishico
   url: https://www.youtube.com/watch?v=pgE2wb2lsgE
   code: https://www.youtube.com/watch?v=pgE2wb2lsgE
-  description: ICO platform with minimal fees, cryptocurrency analytics, and analyst reports.
+  description: ICO platform with minimal fees, cryptocurrency analytics, and analyst reports. A HODLer's dream.
   used:
     - thing: Wordpress
     - thing: MetaMask
@@ -28,16 +31,6 @@
     - thing: PostgreSQL
     - thing: AWS
     - thing: Ethereum
-
-- name: ShootAR
-  url: https://www.youtube.com/watch?v=OoMzzIeKI9Y
-  code: https://www.youtube.com/watch?v=OoMzzIeKI9Y
-  description: AR-based game with the purpose of shooting blocks to gain points.
-  used:
-    - thing: Swift
-    - thing: ARKit
-    - thing: Unity
-    - thing: Photoshop
 
 - name: Carus
   url: https://github.com/PronoyC/Carus
@@ -49,6 +42,13 @@
     - thing: Ethereum
     - thing: Bash
     - thing: MetaMask
+    
+- name: Euchre
+  description: The game of Euchre, live and in C++. Did it for a course, got a great mark.
+  used:
+  - thing: C++
+  - thing: Git
+  - thing: UML
 
 - name: Personal Portfolio
   url: https://www.pronoy.ca/

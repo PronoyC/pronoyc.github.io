@@ -13,7 +13,7 @@
 - name: endgameJS
   url: https://github.com/a5chanda/endgameJS
   code: https://github.com/a5chanda/endgameJS
-  description: A perfectly balanced texting service that immediately alerted subscribers when Avengers: Endgame tickets would release.
+  description: A perfectly balanced texting service that immediately alerted subscribers when Avengers Endgame tickets would release.
   used:
     - thing: Node
     - thing: Twilio

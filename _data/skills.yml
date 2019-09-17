@@ -20,7 +20,7 @@ frameworks:
   - item: Mocha
   - item: Chai
 
-tools & services:
+tools:
   - item: AWS
   - item: GCP
   - item: Node

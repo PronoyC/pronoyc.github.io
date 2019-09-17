@@ -23,7 +23,7 @@
 - name: Kaishico
   url: https://www.youtube.com/watch?v=pgE2wb2lsgE
   code: https://www.youtube.com/watch?v=pgE2wb2lsgE
-  description: ICO platform with minimal fees, cryptocurrency analytics, and analyst reports. A HODLer's dream.
+  description: ICO platform with minimal fees, cryptocurrency analytics, and analyst reports; a HODLer's dream.
   used:
     - thing: Wordpress
     - thing: MetaMask
@@ -44,7 +44,7 @@
     - thing: MetaMask
     
 - name: Euchre
-  description: The game of Euchre, live and in C++. Did it for a course, got a great mark.
+  description: The game of Euchre, live and in C++; did it for a course, got a great mark.
   used:
   - thing: C++
   - thing: Git

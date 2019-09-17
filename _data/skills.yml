@@ -1,27 +1,36 @@
 languages:
+  - item: JavaScript/TypeScript
   - item: C/C++
-  - item: Java/Kotlin
-  - item: HTML/CSS
-  - item: JavaScript
   - item: Python
+  - item: Kotlin/Java
   - item: Swift
-  - item: SQL
-  - item: Racket
+  - item: Bash
  
 frameworks:
-  - item: Corda
-  - item: Fabric
-  - item: Ethereum
+  - item: Angular
+  - item: React
+  - item: Bootstrap
+  - item: Express
+  - item: Electron
+  - item: Git
+  - item: R3 Corda
+  - item: Hyperledger Fabric
+  - item: Jasmine
+  - item: Karma
+  - item: Mocha
+  - item: Chai
 
-tools:
-  - item: Bash
-  - item: Git/GitHub
-  - item: Node
-  - item: Wordpress
-  - item: Docker
+tools & services:
   - item: AWS
-  - item: VSCode
+  - item: GCP
+  - item: Node
+  - item: Docker
+  - item: MongoDB
+  - item: Postman
+  - item: Dialogflow
 
 design:
-  - item: Manual Testing
-  - item: Debugging Code
+  - item: Figma
+  - item: Sketch
+  - item: Adobe XD
+  - item: Photoshop

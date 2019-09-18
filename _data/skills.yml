@@ -11,14 +11,9 @@ frameworks:
   - item: React
   - item: Bootstrap
   - item: Express
-  - item: Electron
   - item: Git
   - item: R3 Corda
   - item: Hyperledger Fabric
-  - item: Jasmine
-  - item: Karma
-  - item: Mocha
-  - item: Chai
 
 tools:
   - item: AWS

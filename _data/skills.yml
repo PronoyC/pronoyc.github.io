@@ -16,8 +16,7 @@ frameworks:
   - item: Hyperledger Fabric
 
 tools:
-  - item: AWS
-  - item: GCP
+  - item: AWS/GCP/Azure
   - item: Node
   - item: Docker
   - item: MongoDB

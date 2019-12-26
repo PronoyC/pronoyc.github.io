@@ -1,11 +1,10 @@
 product:
   - item: Data Analytics
   - item: A/B Testing
-  - item: UAT
   - item: Rapid Prototyping
   - item: User Research
-  - item: Business Process Mapping
-  - item: Technical System Design
+  - item: Process Mapping
+  - item: System Design
   
 languages:
   - item: JavaScript/TypeScript
@@ -33,4 +32,3 @@ tools:
   - item: Redis
   - item: Figma
   - item: Zeplin
-  - item: Google Analytics/Optimize

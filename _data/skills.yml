@@ -19,7 +19,6 @@ frameworks:
   - item: Angular
   - item: React
   - item: Bootstrap
-  - item: Express
   - item: Git
   - item: R3 Corda
   - item: Hyperledger Fabric
@@ -34,5 +33,4 @@ tools:
   - item: Redis
   - item: Figma
   - item: Zeplin
-  - item: Google Analytics
-  - item: Google Optimize
+  - item: Google Analytics/Optimize

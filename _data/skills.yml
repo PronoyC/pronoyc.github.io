@@ -1,6 +1,7 @@
 product:
   - item: Data Analytics
   - item: A/B Testing
+  - item: UAT
   - item: Rapid Prototyping
   - item: User Research
   - item: Process Mapping
@@ -18,6 +19,7 @@ frameworks:
   - item: Angular
   - item: React
   - item: Bootstrap
+  - item: Express
   - item: Git
   - item: R3 Corda
   - item: Hyperledger Fabric
@@ -32,3 +34,4 @@ tools:
   - item: Redis
   - item: Figma
   - item: Zeplin
+  - item: Google Analytics/Optimize

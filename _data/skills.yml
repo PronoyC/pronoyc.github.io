@@ -34,4 +34,5 @@ tools:
   - item: Redis
   - item: Figma
   - item: Zeplin
-  - item: Google Analytics/Optimize
+  - item: Google Analytics
+  - item: Google Optimize

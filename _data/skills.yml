@@ -1,3 +1,12 @@
+product:
+  - item: Data Analytics
+  - item: A/B Testing
+  - item: UAT
+  - item: Rapid Prototyping
+  - item: User Research
+  - item: Business Process Mapping
+  - item: Technical System Design
+  
 languages:
   - item: JavaScript/TypeScript
   - item: C/C++
@@ -14,18 +23,16 @@ frameworks:
   - item: Git
   - item: R3 Corda
   - item: Hyperledger Fabric
+  - item: DialogFlow
+  - item: Elasticsearch
 
 tools:
   - item: AWS/GCP/Azure
-  - item: Node
   - item: Docker
+  - item: Node
   - item: MongoDB
-  - item: Postman
-  - item: Dialogflow
-
-design:
+  - item: Redis
   - item: Figma
-  - item: Sketch
-  - item: Adobe XD
-  - item: Invision
-  - item: Photoshop
+  - item: Zeplin
+  - item: Google Analytics
+  - item: Google Optimize

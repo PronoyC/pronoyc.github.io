@@ -1,17 +1,8 @@
 <section class="section skills">
-  <div class="section__title">Relevant Skills</div>
+  <div class="section__title">Technical Skills</div>
   <div class="section__content">
     <p>I’ve picked up quite a few skills during my career and I aim to improve these skills everyday. Here are a few things that I have experience with:</p>
     <div class="skillz">
-      <div class="skillz__category">
-        <div class="skillz__category__label">Product</div>
-        <ul>
-          {% for thing in site.data.skills.product %}
-          <li class="skillz__category__item">{{thing.item}}</li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
       <div class="skillz__category">
         <div class="skillz__category__label">Languages</div>
         <ul>
@@ -29,12 +20,21 @@
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Services & Tools</div>
+        <div class="skillz__category__label">Tools & Services</div>
         <ul>
           {% for tool in site.data.skills.tools %}
           <li class="skillz__category__item">{{tool.item}}</li>
           {% endfor %}
         </ul>
       </div>
+      <div class="skillz__category">
+        <div class="skillz__category__label">Product</div>
+        <ul>
+          {% for thing in site.data.skills.product %}
+          <li class="skillz__category__item">{{thing.item}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
   </div>
 </section>

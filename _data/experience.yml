@@ -1,9 +1,14 @@
+- company: LCBO
+  url: https://www.lcbonext.com/
+  time: September 2020 - December 2020
+  position: Product Manager
+
 - company: Bidvine
   url: https://www.bidvine.com/
   time: April 2020 - August 2020
   position: Product Manager
   
-- company: LCBO|next
+- company: LCBO
   url: https://www.lcbonext.com/
   time: September 2019 - December 2019
   position: Product Manager

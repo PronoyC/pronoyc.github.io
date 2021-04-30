@@ -1,9 +1,9 @@
 product:
   - item: Data Analysis
   - item: A/B Testing
-  - item: UAT
-  - item: Rapid Prototyping
   - item: User Research
+  - item: Product Strategy
+  - item: Agile Project Delivery
   - item: Process Mapping
   - item: System Design
   
@@ -12,30 +12,17 @@ languages:
   - item: C/C++
   - item: Python
   - item: SQL
-  - item: Kotlin/Java
-  - item: Swift
+  - item: R
   - item: Bash
- 
-frameworks:
-  - item: Angular
-  - item: React
-  - item: Bootstrap
-  - item: Express
-  - item: Git
-  - item: R3 Corda
-  - item: Hyperledger Fabric
-  - item: DialogFlow
-  - item: Elasticsearch
 
 tools:
   - item: AWS/GCP/Azure
-  - item: Docker
-  - item: Node
-  - item: MongoDB
-  - item: Redis
   - item: Figma
   - item: Zeplin
-  - item: Google Analytics
-  - item: Google Optimize
   - item: Amplitude
-  - item: JIRA
+  - item: Google Analytics
+  - item: Google Tag Manager
+  - item: Firebase
+  - item: Jira
+  - item: Asana
+  - item: Aha

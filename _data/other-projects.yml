@@ -53,7 +53,7 @@
 - name: Personal Portfolio
   url: https://www.pronoy.ca/
   code: https://www.pronoy.ca/
-  description: Portfolio to showcase CS achievements with PWA integration. Originally designed and developed by Brittany Chiang.
+  description: Portfolio with PWA integration. Originally designed and developed by Brittany Chiang.
   used:
   - thing: Jekyll
   - thing: JavaScript
